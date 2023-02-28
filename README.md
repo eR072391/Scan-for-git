@@ -1,5 +1,7 @@
 # Scan-for-git
 
+link(https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54)
+
 ## install 
 amass  
 https://github.com/OWASP/Amass/releases
