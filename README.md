@@ -7,8 +7,11 @@ https://github.com/OWASP/Amass/releases
 aquatone  
 https://github.com/michenriksen/aquatone/releases
 
-nuclei
+nuclei  
 https://github.com/projectdiscovery/nuclei/releases
+
+pip3 install git-dumper
+
 
 ## Usage
 ./scan domain.com
